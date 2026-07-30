@@ -36,7 +36,7 @@ The engine operates across 5 isolated asynchronous processing zones:
 
 ## 🔒 Data Security & Privacy Standards
 TrueUp is built for zero-data-retention compliance. All processing occurs entirely within your self-hosted or cloud-isolated n8n workspace. 
-* Review our formal **[Data Security Addendum (DSA)](Doc/Enterprise Security Addendum.pdf)** for complete technical specifications regarding TLS 1.3 transit security and scoped OAuth 2.0 access governance.
+* Review our formal **[Data Security Addendum (DSA)](.Doc/Enterprise_Security_Addendum.pdf)** for complete technical specifications regarding TLS 1.3 transit security and scoped OAuth 2.0 access governance.
 * **Immutable Evidence Versioning & Audit Ledger:** Go beyond ad-hoc billing updates. The Enterprise Engine automatically maps an immutable audit trail to every single execution, logging the exact `COMPANY_ID`, `OVERAGE_DELTA`, `LEAKAGE_USD`, and execution timestamp into the `RECON_LEDGER`. When external auditors require revenue accounting proof for SOC 2 Type II sampling, your evidence trail is automatically structured and exportable.
 * **Least-Privilege API Scoping:** The Stripe API token requires only restricted access (`read: subscriptions`, `write: invoices`), ensuring core payment processing layers remain completely isolated from the workflow.
 
