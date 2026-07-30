@@ -42,6 +42,15 @@ TrueUp is built for zero-data-retention compliance. All processing occurs entire
 
 ---
 
+## 🛠️ Open-Source Community Skeleton
+For developers, automation enthusiasts, and n8n builders wanting to explore the core deterministic logic, we have provided a **Free Open-Source Skeleton** within this repository. 
+
+This base `.json` workflow contains the foundational cross-referencing math and API routing architecture. It allows you to freely pull the asset into your sandbox, reverse-engineer the logic, and build your own custom rate-limit handling, pagination, and UI routing on top.
+
+👉 **[Access the Free OSS Skeleton in this Repository](./TrueUp_OSS_Skeleton.json)** *(Link to the skeleton file)*
+
+---
+
 ## 🚀 Get the Production Automation Engine
 The complete, pre-configured **TrueUp production software bundle** is distributed via Commercial Enterprise License.
 
