@@ -47,7 +47,7 @@ For developers, automation enthusiasts, and n8n builders wanting to explore the 
 
 This base `.json` workflow contains the foundational cross-referencing math and API routing architecture. It allows you to freely pull the asset into your sandbox, reverse-engineer the logic, and build your own custom rate-limit handling, pagination, and UI routing on top.
 
-👉 **[Access the Free OSS Skeleton in this Repository](./TrueUp_OSS_Skeleton.json)** *(Link to the skeleton file)*
+👉 **[Access the Free OSS Skeleton in this Repository](./WORKFLOW_SKELETON.json)** *(Link to the skeleton file)*
 
 ---
 
